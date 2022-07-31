@@ -1,0 +1,32 @@
+.lgd{
+    margin-left: 80px;
+    border: solid 1px black;
+}
+
+.cntr{
+    margin: auto;
+    text-align: center;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+fieldset{
+    width: 10px;
+    margin: auto;
+}
+
+.drp{
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.clm{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
